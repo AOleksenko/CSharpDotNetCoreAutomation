@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj": {}
+    "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj": {
+    "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
         "projectName": "SeleniumCSharNetCore",
-        "projectPath": "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
+        "projectPath": "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

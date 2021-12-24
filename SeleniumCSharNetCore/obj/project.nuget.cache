@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LahTM9NDhKGemQi3/hbjcuNUUzEu7LN5qRvfvBL2bBL8EuKIRhkuCFbcJO3th5rINP5WmPwYLzsJYtWlWPCPkA==",
+  "dgSpecHash": "KfvTtIOCMmPW3yqyd0MsXYrEnefnrVPRJ4VEAz6AShg7VKmU7OEht5g+tOF1Gpd+MbNxkL3+6vmxg9MtPCqw1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\Desktop\\AOl\\Course\\SeleniumCSharNetCore\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\AOl\\CSharpDotNetCoreAutomation\\SeleniumCSharNetCore\\SeleniumCSharNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
